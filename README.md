@@ -1,3 +1,4 @@
 # hello-world
 popis
-nova vetev
+tady smazat
+tady napsat
